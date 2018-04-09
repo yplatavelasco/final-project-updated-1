@@ -104,6 +104,7 @@
 	}
 	article {
 		margin: 0 20px 0 240px;
+		padding-bottom:40px;
 	}
 	blockquote  {
 		float: right; 
@@ -140,7 +141,7 @@
 	    background:var(--tan);
 	 }
 	footer {
-		background-color: blue;
+		background-color: var(--tan);
 	    padding: 20px;
 	    text-align: center;
 	}
