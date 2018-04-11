@@ -5,8 +5,6 @@
 		--radius: 4px;
 	}
 
-
-
 	body {
 		margin: -20;
 		color: #333;
@@ -55,14 +53,9 @@
 
 	aside ul {
 		list-style: none; 
-		margin: 1em; 
+		margin: 0.5em; 
 		padding: 100;
 	}
-
-
-
-
-
 
 
 	.nav {
@@ -142,8 +135,8 @@
 	 }
 	footer {
 		background-color: var(--tan);
-	    padding: 20px;
-	    text-align: center;
+	    padding: 60px;
+	    text-align: right;
 	}
 
 	.mystyle {
@@ -188,3 +181,20 @@
 			margin: 0;
 		}
 	}
+
+
+.btn, .wpcf7-submit, button {
+    color: #fff;
+    font-family: "FFScubaWebMedium",arial,sans-serif;
+    display: inline-block;
+    background-color: #066f72;
+    transition: all 0.3s ease;
+    border: none;
+    margin-top: 1rem;
+    margin-bottom: 0rem;
+    text-transform: uppercase;
+    cursor: pointer;
+}
+
+
+
